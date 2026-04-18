@@ -1,1 +1,24 @@
-Purdue-Global-Analytics-Coursework This repository contains academic programming projects and data analysis scripts developed during my Bachelor’s degree in Data Analytics at Purdue University Global. My focus is on utilizing Python to build automated solutions and data-driven insights. Technical Skills DemonstratedLanguages: Python 3.10+Logic: Structural Pattern Matching (match/case), nested loops, sentinel-controlled iteration, and functional programming.Tools: Version Control (GitHub), AI-Assisted Development.Coursework: IN250 (Python Programming)Module 2: Logic and Iteration Conditional Logic: Implemented efficient match/case blocks for day/month selection and handled integer comparisons.Data Processing: Developed a class average calculator using while loops and counters.User Input Automation: Built data entry scripts utilizing sentinel values (specific "break" conditions) to handle dynamic datasets.Module 4: Functions and Temperature Logic. Functional Programming: Developed modular code using functions to separate calculation logic from output generation.Rounding Accuracy: Implemented manual rounding logic ($+ 0.5$ before integer conversion) to ensure precise data representation.Conditional Advisories: Created a weather advisory system that uses logical branching to categorize numerical data into human-readable insights.
+# Purdue-Global-Analytics-Coursework
+
+This repository contains academic programming projects and data analysis scripts developed during my Bachelor’s degree in Data Analytics at Purdue University Global. My focus is on utilizing **Python** to build automated solutions and data-driven insights.
+
+---
+
+### Technical Skills Demonstrated
+* **Languages:** Python 3.10+
+* **Logic:** Structural Pattern Matching (`match/case`), nested loops, sentinel-controlled iteration, and functional programming.
+* **Tools:** Version Control (GitHub), AI-Assisted Development.
+
+---
+
+### Coursework: IN250 (Python Programming)
+
+#### Module 2: Logic and Iteration
+* **Conditional Logic:** Implemented efficient `match/case` blocks for day/month selection and handled integer comparisons.
+* **Data Processing:** Developed a class average calculator using `while` loops and counters.
+* **User Input Automation:** Built data entry scripts utilizing sentinel values (specific "break" conditions) to handle dynamic datasets.
+
+#### Module 4: Functions and Temperature Logic
+* **Functional Programming:** Developed modular code using functions to separate calculation logic from output generation.
+* **Rounding Accuracy:** Implemented manual rounding logic (+0.5 before integer conversion) to ensure precise data representation.
+* **Conditional Advisories:** Created a weather advisory system that uses logical branching to categorize numerical data into human-readable insights.
