@@ -18,6 +18,11 @@ This repository contains academic programming projects and data analysis scripts
 * **Data Processing:** Developed a class average calculator using `while` loops and counters.
 * **User Input Automation:** Built data entry scripts utilizing sentinel values (specific "break" conditions) to handle dynamic datasets.
 
+#### Module 3: String Processing and Word Counting
+* **String Manipulation:** Utilized the .split() method to parse complex strings into iterable lists.
+* **Iterative Indexing:** Implemented for loops with manual counters to index and display individual components of a dataset.
+* **Collection Metrics:** Developed logic to calculate and output the total volume of elements (word counts) within a processed string.
+
 #### Module 4: Functions and Temperature Logic
 * **Functional Programming:** Developed modular code using functions to separate calculation logic from output generation.
 * **Rounding Accuracy:** Implemented manual rounding logic (+0.5 before integer conversion) to ensure precise data representation.
